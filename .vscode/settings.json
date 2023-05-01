@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "any": "cpp",
+        "*.tcc": "cpp",
+        "optional": "cpp",
+        "future": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp",
+        "variant": "cpp"
+    }
+}
